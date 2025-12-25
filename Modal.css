@@ -1,0 +1,16 @@
+.modal {
+  position: fixed;
+  inset: 0;
+  background-color: #0000004d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalbox {
+  background: white;
+  padding: 150px 150px;
+  border-radius: 6px;
+  min-width: 140px;
+  text-align: center;
+}
